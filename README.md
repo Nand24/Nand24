@@ -1,100 +1,99 @@
 <h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
-<h3 align="center">Final Year Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-Building scalable software, exploring AI, and solving real-world problems.
+  <b>Final Year Computer Science Student • Full-Stack Developer • AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nand24">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Full-Stack+Developer;AI+%7C+Backend+%7C+Cloud;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE student at **JIIT, Noida**
-- 💻 Passionate about **Software Engineering, Backend Development & AI**
-- 🧠 Research Intern at **IIT Roorkee** (Vision Transformers for Medical Imaging)
-- 🌱 Currently learning **System Design, Cloud & Distributed Systems**
-- 🏆 450+ DSA problems solved
-- ⚡ I enjoy turning ideas into production-ready applications.
+- 🎓 Final Year B.Tech CSE @ **JIIT Noida**
+- 💼 AI Research Intern @ **IIT Roorkee**
+- 🌱 Learning **System Design, Cloud & Distributed Systems**
+- 💻 Interested in **Backend Development, AI and Full-Stack Engineering**
+- 🏆 450+ DSA Problems Solved
+- 🚀 Open to Software Engineering opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql)
+<p align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=for-the-badge&logo=tailwind-css)
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,fastapi,postgres,mongodb,prisma,docker,git,linux,vercel,vscode&perline=8"/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
-![Prisma](https://img.shields.io/badge/-Prisma-333?style=for-the-badge&logo=prisma)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
-
-### AI
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch)
-![LangChain](https://img.shields.io/badge/-LangChain-333?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/-Ollama-333?style=for-the-badge)
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 Hypp
-A full-stack marketplace for buying and selling social media accounts with secure authentication, messaging, payments, and admin moderation.
-
-**Tech:** React • Express • PostgreSQL • Prisma • Clerk • Stripe
-
----
+Full-stack marketplace for buying and selling social media accounts with secure authentication, messaging, Stripe payments, and admin workflows.
 
 ### 🔹 LocalDocu
-A privacy-first local RAG assistant that answers questions from PDFs and images without sending data to the cloud.
-
-**Tech:** FastAPI • LangChain • ChromaDB • Ollama • LLaVA
-
----
+Privacy-first local RAG assistant using LangChain, ChromaDB and Ollama for offline document intelligence.
 
 ### 🔹 Vision Transformer Research
-Developed a Vision Transformer model for retinal disease classification during my research internship at IIT Roorkee.
+Retinal disease classification using Vision Transformers during my research internship at IIT Roorkee.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
+
+- ⭐ 450+ DSA Problems Solved
+- ⭐ 2★ CodeChef
+- ⭐ Smart India Hackathon 2024 Finalist
+- ⭐ Adobe India Hackathon 2025 Round 2
+- ⭐ IIT Roorkee Research Intern
+
+---
+
+## 📈 Contribution Graph
+
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nand24&theme=github-dark&hide_border=true)](https://github.com/Nand24)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nand24/Nand24/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:pranavsharma2595@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/Nand24">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nand24&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nand24&layout=compact&theme=github_dark&hide_border=true"/>
+![](https://komarev.com/ghpvc/?username=Nand24&style=for-the-badge)
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Nand24&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn
-- 📧 pranavsharma2595@gmail.com
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
+<i>"First, solve the problem. Then, write the code."</i>
 </p>
