@@ -90,7 +90,7 @@ Developed a Vision Transformer model for retinal disease classification during m
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/pranav-sharma-9ba871255">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;&nbsp;
