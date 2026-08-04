@@ -60,13 +60,8 @@ Developed a Vision Transformer model for retinal disease classification during m
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nand24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</p>
 
----
 
 # 📈 Contribution Graph
 
