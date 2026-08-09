@@ -19,7 +19,7 @@
 # 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech in Computer Science @ **JIIT Noida**
-- 🔬 AI Research Intern @ **IIT Roorkee**
+- 🔬 EX-AI Research Intern @ **IIT Roorkee**
 - 💻 Passionate about **Backend Development, Full-Stack Engineering & AI**
 - 🌱 Currently learning **System Design, Cloud & Distributed Systems**
 - 🏆 Solved **450+ DSA Problems**
