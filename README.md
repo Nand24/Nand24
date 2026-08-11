@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,fastapi,postgres,mongodb,prisma,docker,git,linux,vercel,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,react,nodejs,express,mongodb,git,vercel,vscode&perline=8"/>
 
 </p>
 
