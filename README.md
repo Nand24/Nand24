@@ -16,14 +16,14 @@
 
 ---
 
-# 👨‍💻 About Me
+#   About Me
 
-- 🎓 Final Year B.Tech in Computer Science @ **JIIT Noida**
-- 🔬 EX-AI Research Intern @ **IIT Roorkee**
-- 💻 Passionate about **Backend Development, Full-Stack Engineering & AI**
-- 🌱 Currently learning **System Design, Cloud & Distributed Systems**
-- 🏆 Solved **450+ DSA Problems**
-- 🚀 Looking for **Software Engineering Opportunities**
+-  Final Year B.Tech in Computer Science @ **JIIT Noida**
+-  EX-AI Research Intern @ **IIT Roorkee**
+-  Passionate about **Backend Development, Full-Stack Engineering & AI**
+-  Currently learning **System Design, Cloud & Distributed Systems**
+-  Solved **450+ DSA Problems**
+-  Looking for **Software Engineering Opportunities**
 
 ---
 
@@ -37,9 +37,9 @@
 
 ---
 
-# 🚀 Featured Projects
+#   Featured Projects
 
-### 🎙️ [NishkarshAI](https://github.com/Nand24/NishkarshAI)
+###  [NishkarshAI](https://github.com/Nand24/NishkarshAI)
 > **Autonomous YouTube & Podcast RAG AI Platform**
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://github.com/Nand24/NishkarshAI)
@@ -53,7 +53,7 @@
 
 ---
 
-### 🛍️ [Hypp](https://github.com/Nand24/Hypp)
+###  [Hypp](https://github.com/Nand24/Hypp)
 > **Premier Social Media Account Marketplace & 48-Hour Escrow Platform**
 
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://github.com/Nand24/Hypp)
@@ -68,7 +68,7 @@
 
 ---
 
-### 🎓 [AI Study Assistant](https://github.com/Nand24/AI-Study-Assistant)
+###   [AI Study Assistant](https://github.com/Nand24/AI-Study-Assistant)
 > **Generative AI Active Recall & Interactive Document Learning System**
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://github.com/Nand24/AI-Study-Assistant)
